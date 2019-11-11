@@ -1,5 +1,5 @@
 # teste-frontend
-Repositório usado para o teste de front-end do Núcleo de Tecnologia Multimídia.
+
 
 ## O que?
 Relatório que, utilizando dados de uma api, mostre a taxa (a partir do coeficiente) de ex-alunos do SENAI que continuam estudando por estado e também a taxa nacional.
