@@ -6,7 +6,7 @@ Relatório que, utilizando dados de um arquivo .json, mostra uma tabela contento
 ## setup
 
 ``` bash
-# clone repository
+# clonar repositório
 git clone https://github.com/midizy/teste-frontend.git
 
 # instalar dependências
