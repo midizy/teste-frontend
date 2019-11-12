@@ -6,7 +6,7 @@ Relatório que, utilizando dados de um arquivo .json, mostra uma tabela contento
 
 ``` bash
 # clone repository
-git clone https://github.com/igoortc/vue-rating-system.git
+git clone https://github.com/midizy/teste-frontend.git
 
 # instalar dependências
 npm install -g vue-cli
